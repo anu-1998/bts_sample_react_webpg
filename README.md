@@ -1,2 +1,2 @@
-# bts_sample_react_webpg
+# react_bts
 Created with CodeSandbox
